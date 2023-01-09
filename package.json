@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://chuzhov.github.io/ice-cream-team-project",
+  "homepage": "https://github.com/chuzhov/ice-cream-team-project.git",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /ice-cream-team-project/"
